@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from sjasoft-uopclient!")
+__author__ = 'samantha'
